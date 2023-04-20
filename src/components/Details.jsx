@@ -72,7 +72,7 @@ function Details(){
           <a href="https://twitter.com/9Gunna9">
             <AiOutlineTwitter color="	#1DA1F2" fontSize={30} fontWeight="bolder"/>
           </a>
-          <a href="https://github.com/Gunna9999">
+          <a href="https://github.com/Dev-Emmyy">
             <AiFillGithub color="black" fontSize={30} cursor="pointer"  fontWeight="bolder" />
           </a>
           </div>
